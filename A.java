@@ -4,7 +4,8 @@ public class A
   int a;
   public void add()
   {
-    int d=a+b;
+int c=a+b;
+int d=a+b;
   }
   
 }
